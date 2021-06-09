@@ -25,7 +25,6 @@ Specifically your final result *needs* to include the following:
 
 Good luck! If you have any questions, go with your best guess!
 
-
 ## Running the boilerplate
 Any HTTP server should be fine, some examples:
 
@@ -45,3 +44,9 @@ PHP
 ```
 $ php -S 127.0.0.1:8000
 ```
+
+
+## Working on the assignment
+- Clone this repository
+- Implement your feature
+- Zip everything up and send it our way!
